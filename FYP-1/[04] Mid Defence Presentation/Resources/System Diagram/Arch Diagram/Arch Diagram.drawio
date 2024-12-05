@@ -1,0 +1,85 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" version="24.7.7">
+  <diagram name="Page-1" id="zFW_qQuY7UijX5eiBJMG">
+    <mxGraphModel dx="1026" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Dqs8fyp42_lMxEcsUAFM-6" value="Model" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/8637/8637101.png;" vertex="1" parent="1">
+          <mxGeometry x="500" y="120" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Dqs8fyp42_lMxEcsUAFM-1" value="CCTV Camera" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/security-double-color-red-and-black-vol-1/52/camera__capture__device__technology-128.png;portConstraintRotation=0;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="355" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Dqs8fyp42_lMxEcsUAFM-3" value="API Server&#xa;" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-gif.flaticon.com/9872/9872473.gif;" vertex="1" parent="1">
+          <mxGeometry x="260" y="340" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Dqs8fyp42_lMxEcsUAFM-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.001;exitY=0.563;exitDx=0;exitDy=0;exitPerimeter=0;flowAnimation=1;strokeColor=#FF0000;" edge="1" parent="1" source="Dqs8fyp42_lMxEcsUAFM-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="400" as="sourcePoint" />
+            <mxPoint x="260" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dqs8fyp42_lMxEcsUAFM-5" value="GCP (FaaS)" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static-00.iconduck.com/assets.00/google-cloud-icon-2048x1646-7admxejz.png;" vertex="1" parent="1">
+          <mxGeometry x="274.5" y="150" width="74.68" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Dqs8fyp42_lMxEcsUAFM-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.001;exitY=0.563;exitDx=0;exitDy=0;exitPerimeter=0;flowAnimation=1;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="352.34000000000003" y="170" as="sourcePoint" />
+            <mxPoint x="492.34000000000003" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dqs8fyp42_lMxEcsUAFM-8" value="" style="endArrow=classic;html=1;rounded=0;flowAnimation=1;strokeColor=#FF0000;exitX=0.273;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Dqs8fyp42_lMxEcsUAFM-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="330" as="sourcePoint" />
+            <mxPoint x="290" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dqs8fyp42_lMxEcsUAFM-9" value="" style="endArrow=classic;html=1;rounded=0;flowAnimation=1;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="240" as="sourcePoint" />
+            <mxPoint x="330" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dqs8fyp42_lMxEcsUAFM-10" value="Moderate" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="620" y="128" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Dqs8fyp42_lMxEcsUAFM-11" value="Critical" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="620" y="165" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Dqs8fyp42_lMxEcsUAFM-12" value="Catastrophic" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="620" y="198" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Dqs8fyp42_lMxEcsUAFM-13" value="Frontend" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/2721/2721264.png;" vertex="1" parent="1">
+          <mxGeometry x="530" y="345" width="105" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="Dqs8fyp42_lMxEcsUAFM-14" value="" style="endArrow=classic;html=1;rounded=0;flowAnimation=1;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="198" as="sourcePoint" />
+            <mxPoint x="350" y="198" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dqs8fyp42_lMxEcsUAFM-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.001;exitY=0.563;exitDx=0;exitDy=0;exitPerimeter=0;flowAnimation=1;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="400" as="sourcePoint" />
+            <mxPoint x="520" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dqs8fyp42_lMxEcsUAFM-16" value="Database" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/9850/9850812.png;" vertex="1" parent="1">
+          <mxGeometry x="274.5" y="610" width="81" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="Dqs8fyp42_lMxEcsUAFM-17" value="" style="endArrow=classic;html=1;rounded=0;flowAnimation=1;strokeColor=#FF0000;exitX=0.323;exitY=-0.012;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="297.6" y="599" as="sourcePoint" />
+            <mxPoint x="297.6" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dqs8fyp42_lMxEcsUAFM-18" value="" style="endArrow=classic;html=1;rounded=0;flowAnimation=1;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="331.6" y="480" as="sourcePoint" />
+            <mxPoint x="331.6" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
