@@ -1,1 +1,12 @@
-# Technical-Docs
+# Important Links
+- [FYP Organization | GitHub](https://github.com/c137519edbb3)
+- [EyeCon AI Landing Page](https://eyeconai.vercel.app/)
+- [Eyecon AI Admin](http://35.184.106.254/admin)
+- [FYP Google Drive](https://drive.google.com/drive/folders/1n6Y6ZNLuOL1RW0vIdYZeEmDHosRvS4Q-?usp=sharing)
+- Postman
+	- [Eyecon AI Admin](https://documenter.getpostman.com/view/34153769/2sAYBd7TJ4)
+	- [Analytics](https://documenter.getpostman.com/view/34153769/2sAYBd7TJ6)
+	- [Auth](https://documenter.getpostman.com/view/34153769/2sAYBd7TJ7)
+	- [Organization Admin](https://documenter.getpostman.com/view/34153769/2sAYBd7TJ8)
+- [Figma](https://www.figma.com/design/cTNlWQc4Vsc6d9hRmsEnAf/FYP?node-id=0-1&t=av0aG3hVLtR5kVrT-1)
+- [FYP-1 Final Defense Presentation]()
