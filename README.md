@@ -1,7 +1,7 @@
 # Important Links
 - [FYP Organization | GitHub](https://github.com/c137519edbb3)
 - [EyeCon AI Landing Page](https://eyeconai.vercel.app/)
-- [Eyecon AI Admin](http://35.184.106.254/admin)
+- [Eyecon AI Admin](http://34.55.14.228/admin)
 - [FYP Google Drive](https://drive.google.com/drive/folders/1n6Y6ZNLuOL1RW0vIdYZeEmDHosRvS4Q-?usp=sharing)
 - Postman
 	- [Eyecon AI Admin](https://documenter.getpostman.com/view/34153769/2sAYBd7TJ4)
