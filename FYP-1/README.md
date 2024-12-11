@@ -14,7 +14,7 @@ End Date: 12 December 2024
 - Incorporated feedbacks on design on logo from supervisor
 - Started development for Landing Page
 ### 7 October - 13 October
-- 7 October: Developed and Deployed Landing Page: [EyeCon AI Landing Page](https://eyeconai.vercel.app/
+- 7 October: Developed and Deployed Landing Page: [EyeCon AI Landing Page](https://eyeconai.vercel.app/)
 - Set up CI/CD for Landing Page
 - 9 October: Midas excused
 - Found new customer: Shamsi School
